@@ -1,0 +1,5 @@
+Ashraful:161001:35:Male:Chittagonj:Moghbazar:CSE:3:45000.50:B+:01836978400:Ah1698@gmail.com:Married
+Rafiqul:161002:27:Male:Comilla:Mirpur:EEE:1:35000.50:AB-:01636978400:RI1698@gmail.com:Unmarried
+Ashratun:161004:25:Female:Rajshahi:Banani:EEE:1:27000.50:O+:01536978400:Aa98@gmail.com:Unmarried
+Mohammad:161005:31:Male:Barishal:Moghbazar:CSE:2:40000.50:B+:01736978400:Mh1698@gmail.com:Married
+Sharmin:161006:45:Female:Comilla:Firmgate:CSE:5:75000.50:A-:01737978400:Sm1698@gmail.com:Married
